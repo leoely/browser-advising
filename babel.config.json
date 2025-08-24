@@ -1,0 +1,25 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+        {
+         "targets": {
+          "chrome": "60"
+        }
+      }
+    ],
+  ],
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      {
+        "paths": [
+          {
+            "rootPathSuffix": "./src",
+            "rootPathPrefix": "~/"
+          },
+        ]
+      }
+    ]
+  ],
+}
