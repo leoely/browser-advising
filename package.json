@@ -1,6 +1,6 @@
 {
   "name": "browser-advising",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Frontend router project.",
   "main": "dist/index.js",
   "repository": "git@github.com:leoely/advising.js.git",

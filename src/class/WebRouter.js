@@ -1,6 +1,5 @@
 import Router from '~/class/Router';
 import WebThing from '~/class/WebThing';
-console.log(Router);
 
 function parsePathKeys(url) {
   let status = 0;
