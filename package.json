@@ -1,9 +1,9 @@
 {
   "name": "browser-advising",
   "version": "0.0.9",
-  "description": "Frontend router project.",
+  "description": "Router project on the browser side.",
   "main": "dist/index.js",
-  "repository": "git@github.com:leoely/advising.js.git",
+  "repository": "git@github.com:leoely/browser-advising.git",
   "author": "Leo Ely",
   "license": "MIT",
   "scripts": {

@@ -1,2 +1,2 @@
-# advising.js
-Frontend router project.
+# browser-advising
+Router project on the browser side.
